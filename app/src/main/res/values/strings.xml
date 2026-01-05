@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BanglaCents</string>
+    <string name="take_picture">Take Picture</string>
+    <string name="classified_as">Classified as:</string>
+    <string name="confidence">Confidence:</string>
+    <string name="image_content_description">Captured Image</string>
+
+</resources>
